@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'widget001.dart';
 
 void main() {
-  runApp(MiPrimeraApp());
+  runApp(const MyApp());
 }
 
 class MiPrimeraApp extends StatelessWidget {
